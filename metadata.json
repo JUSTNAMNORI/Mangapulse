@@ -1,0 +1,5 @@
+{
+  "name": "MangaPulse - Actualités Manga & Anime",
+  "description": "Un agrégateur d'actualités manga et anime en temps réel alimenté par Gemini 2.5 Flash avec Google Search Grounding.",
+  "requestFramePermissions": []
+}
